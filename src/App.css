@@ -1,0 +1,19 @@
+body{
+    background-color: #efdd38;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#root{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cardCollection{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 65%;
+}
